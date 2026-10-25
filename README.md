@@ -90,7 +90,7 @@ footer{padding:30px 0 40px;border-top:1px solid var(--line);text-align:center;co
       <p class="lead">Perkenalkan saya seorang Mahasiswa yang mempunyai ambisi untuk terus belajar dan berkembang di dunia IT</p>
       <p class="lead" style="margin-top:10px">Sedang mencari: <strong style="color:var(--text)">Magang Frontend/Backend, dan UI/UX</strong></p>
     </div>
-    <img class="photo" src="foto.jpg" alt="Foto Rafif Sardiapratama">
+    <img class="photo" src="foto (1).jpg" alt="Foto Rafif Sardiapratama">
   </section>
 
   <section id="tentang" class="section">
